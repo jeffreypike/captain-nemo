@@ -1,1 +1,3 @@
 # captain-nemo
+
+Algorithmic trading
